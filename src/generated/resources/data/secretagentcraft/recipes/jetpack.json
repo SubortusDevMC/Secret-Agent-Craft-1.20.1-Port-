@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "secretagentcraft:large_rocket_engine"
+    },
+    "S": {
+      "item": "secretagentcraft:small_rocket_engine"
+    }
+  },
+  "pattern": [
+    "   ",
+    "SLS",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:jetpack"
+  },
+  "show_notification": true
+}

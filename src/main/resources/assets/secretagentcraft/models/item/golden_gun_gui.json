@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "secretagentcraft:item/golden_gun_gui"
+  }
+}

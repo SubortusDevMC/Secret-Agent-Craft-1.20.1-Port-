@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_gun_barrel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "secretagentcraft:gun_barrel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "secretagentcraft:hand_gun"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_gun_barrel",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "secretagentcraft:hand_gun"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "pattern": [
+    "III",
+    "W W",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:throwable_hat"
+  },
+  "show_notification": true
+}

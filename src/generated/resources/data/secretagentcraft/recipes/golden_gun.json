@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "secretagentcraft:golden_gun_barrel"
+    },
+    "G": {
+      "item": "secretagentcraft:golden_gun_grip"
+    },
+    "H": {
+      "item": "secretagentcraft:golden_gun_hammer"
+    }
+  },
+  "pattern": [
+    "BH ",
+    "  G",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:golden_gun"
+  },
+  "show_notification": true
+}

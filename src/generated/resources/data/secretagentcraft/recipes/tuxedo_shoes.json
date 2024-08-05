@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "L L",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:tuxedo_shoes"
+  },
+  "show_notification": true
+}

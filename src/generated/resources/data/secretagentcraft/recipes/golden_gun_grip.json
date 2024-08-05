@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "GG ",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:golden_gun_grip"
+  },
+  "show_notification": true
+}

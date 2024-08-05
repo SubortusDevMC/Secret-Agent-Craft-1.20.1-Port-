@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:black_wool"
+    },
+    "X": {
+      "item": "minecraft:leather_helmet"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WXW",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:leather_bowler_hat"
+  },
+  "show_notification": true
+}

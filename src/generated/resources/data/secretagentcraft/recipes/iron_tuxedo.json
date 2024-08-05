@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:black_wool"
+    },
+    "X": {
+      "item": "minecraft:iron_chestplate"
+    }
+  },
+  "pattern": [
+    "WXW",
+    "WWW",
+    "WWW"
+  ],
+  "result": {
+    "item": "secretagentcraft:iron_tuxedo"
+  },
+  "show_notification": true
+}

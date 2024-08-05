@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "secretagentcraft:gun_barrel"
+    },
+    "G": {
+      "item": "secretagentcraft:gun_grip"
+    },
+    "H": {
+      "item": "secretagentcraft:gun_hammer"
+    }
+  },
+  "pattern": [
+    "BH ",
+    "  G",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:hand_gun"
+  },
+  "show_notification": true
+}

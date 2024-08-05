@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:black_wool"
+    },
+    "X": {
+      "item": "minecraft:diamond_leggings"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WXW",
+    "W W"
+  ],
+  "result": {
+    "item": "secretagentcraft:diamond_tuxedo_pants"
+  },
+  "show_notification": true
+}

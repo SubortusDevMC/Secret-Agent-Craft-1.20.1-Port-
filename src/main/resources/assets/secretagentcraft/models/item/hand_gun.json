@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "secretagentcraft:item/hand_gun_render"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "secretagentcraft:item/hand_gun_gui"
+    },
+    "ground": {
+      "parent": "secretagentcraft:item/hand_gun_gui"
+    },
+    "fixed": {
+      "parent": "secretagentcraft:item/hand_gun_gui"
+    }
+  }
+}

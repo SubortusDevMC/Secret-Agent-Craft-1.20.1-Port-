@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "I": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "IG ",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:golden_bullet"
+  },
+  "show_notification": true
+}

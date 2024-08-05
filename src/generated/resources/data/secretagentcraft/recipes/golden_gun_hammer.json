@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "FG ",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "item": "secretagentcraft:golden_gun_hammer"
+  },
+  "show_notification": true
+}

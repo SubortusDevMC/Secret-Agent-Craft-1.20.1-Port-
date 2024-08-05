@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "secretagentcraft:apple_seeds"
+    }
+  ],
+  "result": {
+    "item": "secretagentcraft:cyanide"
+  }
+}
